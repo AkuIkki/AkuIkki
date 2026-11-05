@@ -1,7 +1,11 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="assets/firefly-header.png" width="100%" />
+  <img
+    src="./assets/firefly-header.png"
+    width="100%"
+    alt="Rifqi - Firefly Header"
+  />
 </p>
 
 <h1 align="center">
