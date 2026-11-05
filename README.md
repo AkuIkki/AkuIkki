@@ -39,7 +39,7 @@
 <br/>
 
 <div align="center">
-  <img src="footer.svg" width="60%" alt="" />
+  <img src="footer.svg" width="70%" alt="" />
   <br/>
   <sub><i>✦ even the smallest light can guide the way ✦</i></sub>
 </div>
