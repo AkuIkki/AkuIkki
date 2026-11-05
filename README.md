@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0d1117,100:0f3d3a&text=Rifqi&fontColor=7fffd4&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" alt="Rifqi" />
+<img align="right" src="https://github.com/user-attachments/assets/ISI_LINK_KAMU" width="190" alt="peeking" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=3DDC97&center=true&vCenter=true&width=520&height=30&lines=Aspiring+Backend+Developer;PHP+%C2%B7+MySQL+%C2%B7+REST+API;Small+light%2C+steady+glow+%E2%9C%A6" alt="typing" />
