@@ -1,90 +1,59 @@
+<h1 align="center">Hi, I'm Rifqi 👋</h1>
 
-<!-- HEADER -->
-<p align="center">
-  <img
-    src="./assets/firefly-header.png"
-    width="100%"
-    alt="Rifqi - Firefly Header"
-  />
-</p>
-
-<h1 align="center">
-  Hi, I'm <span style="color:#55D6E8">Rifqi</span>
-</h1>
-
-<h3 align="center">
-  Aspiring Backend Developer
-</h3>
+<h3 align="center">Aspiring Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akuikki&label=Profile%20Views&color=55D6E8&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=akuikki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### About Me
 
-## ✦ About Me
-
-🌱 I'm currently learning:
-
-- PHP
-- MySQL
-- REST API
-- CodeIgniter
-- Git
-
-👥 Looking to collaborate on:
-
-- Backend Development Projects
-
-🤝 Looking for help with:
-
-- PHP, MySQL & REST API
-
-📧 Reach me at:
-
-- ikki6866@gmail.com
-
-⚡ Fun fact:
-
-- Learning backend by day,
-  admiring Firefly every day.
-
-</td>
-<td width="50%" valign="top">
-
-## </> Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,git,js,html,css&theme=dark"/>
-</p>
-
-<p align="center">
-  <b>Currently exploring Backend Development</b>
-</p>
-
-</td>
-</tr>
-</table>
+- 🌱 I'm currently learning **PHP, MySQL, REST API, CodeIgniter & Git**
+- 👯 I'm looking to collaborate on **Backend Development Projects**
+- 🤝 I'm looking for help with **PHP, MySQL & REST API**
+- 📫 Reach me at **ikki6866@gmail.com**
+- ⚡ Fun fact: **Learning backend by day, admiring Firefly every day.**
 
 ---
 
-## ✦ GitHub Stats
+### Languages and Tools
+
+<p align="left">
+  <a href="https://www.php.net/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  </a>
+  <a href="https://www.codeigniter.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" alt="CodeIgniter"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  </a>
+</p>
+
+---
+
+
+### GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=akuikki&theme=tokyonight&hide_border=true&background=0D1117&ring=55D6E8&fire=55D6E8&currStreakLabel=55D6E8"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=akuikki&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akuikki&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <i>
-    "Learning backend by day,<br/>
-    admiring Firefly every day."
-  </i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:16A6A3&height=100&section=footer"/>
+  <img src="https://streak-stats.demolab.com/?user=akuikki&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
