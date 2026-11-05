@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0d1117,100:0f3d3a&text=Rifqi&fontColor=7fffd4&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" alt="Rifqi" />
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=3DDC97&center=true&vCenter=true&width=420&height=30&lines=Aspiring+Backend+Developer;PHP+%C2%B7+MySQL+%C2%B7+REST+API;Small+light%2C+steady+glow+%E2%9C%A6" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=FFFFFF&center=true&vCenter=true&width=620&height=30&lines=Learning+backend+by+day%2C+admiring+Firefly+every+day." alt="typing" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=akuikki&label=views&color=0f3d3a&labelColor=0d1117&style=flat-square" alt="Profile Views" />
 
 </div>
 
 <br/>
-<img width="236" height="313" alt="Design Wars_ Man vs_ Machine theCHIVE" src="https://github.com/user-attachments/assets/1717b626-ee0d-4492-bda0-2d85b8bbc528" />
 
-## ✦ About
+<img width="236" height="313" alt="Design Wars_ Man vs_ Machine theCHIVE" src="https://github.com/user-attachments/assets/b335f08e-4902-4661-bdfb-f5e77a13add8" />
 
-- 🌱 Learning **PHP, MySQL, REST API, CodeIgniter & Git**
-- 🤝 Open to collaborate on **backend projects**
-- 🙋 Looking for help with **PHP, MySQL & REST API**
-- 📫 [ikki6866@gmail.com](mailto:ikki6866@gmail.com)
-- ✨ *Learning backend by day, admiring Firefly every day.*
+## ✦ About Me
+
+- 💻 I'm currently learning **PHP, MySQL, REST API, CodeIgniter & Git**
+- ⚙️ I'm looking to collaborate on **Backend Development Projects**
+- 🛠️ I'm looking for help with **PHP, MySQL & REST API**
+- 🔌 Reach me at **ikki6866@gmail.com**
 
 <br/>
 
@@ -36,8 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-0f3d3a?style=flat-square&labelColor=0d1117&color=0f3d3a&logo=databricks&logoColor=7fffd4" alt="Backend" />
-  <img src="https://img.shields.io/badge/ALWAYS_LEARNING-0f3d3a?style=flat-square&labelColor=0d1117&color=0f3d3a&logo=github&logoColor=7fffd4" alt="Learning" />
+  <img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-111111?style=flat-square&labelColor=000000&logo=databricks&logoColor=ffffff" alt="Backend" />
+  <img src="https://img.shields.io/badge/ALWAYS_LEARNING-111111?style=flat-square&labelColor=000000&logo=github&logoColor=ffffff" alt="Learning" />
 </p>
 
 <br/>
@@ -45,18 +41,18 @@
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=akuikki&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7fffd4&text_color=c9d1d9&icon_color=3ddc97&ring_color=3ddc97" height="165" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akuikki&layout=compact&hide_border=true&bg_color=0d1117&title_color=7fffd4&text_color=c9d1d9" height="165" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=akuikki&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff" height="165" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akuikki&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akuikki&hide_border=true&background=0d1117&ring=3ddc97&fire=7fffd4&currStreakLabel=7fffd4&currStreakNum=e6fff5&sideLabels=c9d1d9&sideNums=e6fff5&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=akuikki&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=c9c9c9&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d1117,50:3ddc97,100:0d1117" width="60%" alt="" />
+  <img src="footer.svg" width="60%" alt="" />
   <br/>
   <sub><i>✦ even the smallest light can guide the way ✦</i></sub>
 </div>
