@@ -38,19 +38,6 @@
 
 <br/>
 
-## ✦ GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=akuikki&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff" height="165" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akuikki&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akuikki&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=c9c9c9&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
-</p>
-
-<br/>
-
 <div align="center">
   <img src="footer.svg" width="60%" alt="" />
   <br/>
