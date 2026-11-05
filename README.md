@@ -12,6 +12,8 @@
 
 <br/>
 
+<img align="right" src="firefly.png" width="190" alt="peeking" />
+
 ## ✦ About
 
 - 🌱 Learning **PHP, MySQL, REST API, CodeIgniter & Git**
