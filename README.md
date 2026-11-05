@@ -1,70 +1,84 @@
-<!--
-  FIREFLY THEME - RIFQI
-  Color palette: Dark Navy / Teal / Cyan
--->
+<div align="center">
 
-<!-- HEADER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:091820,45:123B43,100:55D6C2&height=190&section=header&text=Hi,%20I'm%20Rifqi&fontSize=42&fontColor=E8FFFF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Backend%20Developer&descSize=17&descAlignY=58&descColor=B5F5EB"
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0f3d3a,100:3ddc97&text=Hi%2C%20I'm%20USERNAME&fontColor=e6fff5&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20in%20the%20making%20%E2%9C%A6%20glowing%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akuikki&label=PROFILE%20VIEWS&color=20BFA9&style=for-the-badge" alt="Profile Views"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7FFFD4&center=true&vCenter=true&width=560&lines=Learning+Backend+Development+%E2%9C%A6;Building+with+PHP+%26+MySQL;Like+a+firefly%2C+small+light+%E2%86%92+big+glow" alt="Typing SVG" />
+</a>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=55D6C2&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile;Learning+Backend+Development;PHP+%7C+MySQL+%7C+REST+API;Keep+Learning%2C+Keep+Growing;Always+Admiring+Firefly" alt="Typing SVG"/>
-</p>
+</div>
 
 ---
 
 ## ✦ About Me
 
-- 🌱 I'm currently learning **PHP, MySQL, REST API, CodeIgniter & Git**
-- 👯 I'm looking to collaborate on **Backend Development Projects**
-- 🤝 I'm looking for help with **PHP, MySQL & REST API**
-- 📫 Reach me at **ikki6866@gmail.com**
-- ✨ Favorite character: **Firefly — Honkai: Star Rail**
-- ⚡ Fun fact: **Learning backend by day, admiring Firefly every day.**
+- 🌱 Sedang belajar **Backend Development**
+- 🔭 Fokus saat ini: **PHP, MySQL, dan REST API**
+- 💡 Percaya bahwa cahaya kecil yang konsisten bisa menerangi malam yang gelap
+- 📫 Hubungi aku: [GitHub](https://github.com/USERNAME)
 
 ---
 
 ## ⚙️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,git,js,html,css&theme=dark" alt="Tech Stack"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Development-123B43?style=for-the-badge&logo=serverfault&logoColor=55D6C2"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-123B43?style=for-the-badge&logo=github&logoColor=55D6C2"/>
-</p>
+<img src="https://skillicons.dev/icons?i=php,mysql,git,js,html,css&theme=dark" alt="skills" />
+
+<br/><br/>
+
+![Backend](https://img.shields.io/badge/BACKEND_DEVELOPMENT-0f3d3a?style=for-the-badge&logo=databricks&logoColor=7fffd4&labelColor=0d1117)
+![Learning](https://img.shields.io/badge/ALWAYS_LEARNING-0f3d3a?style=for-the-badge&logo=github&logoColor=7fffd4&labelColor=0d1117)
+
+</div>
+
+### 🌿 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,postgres,docker,linux,postman&theme=dark" alt="learning" />
+
+</div>
+
+### 🛠️ Dev Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,githubactions,npm&theme=dark" alt="env" />
+
+</div>
 
 ---
 
 ## ✦ GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=akuikki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=55D6C2&icon_color=55D6C2&text_color=E6F1F1" alt="GitHub Stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=akuikki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=55D6C2&text_color=E6F1F1" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akuikki&theme=tokyonight&hide_border=true&background=0D1117&ring=55D6C2&fire=55D6C2&currStreakLabel=55D6C2" alt="GitHub Streak"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0d1117&title_color=7fffd4&text_color=c9d1d9&icon_color=3ddc97&border_color=1f3a36&ring_color=3ddc97" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=0d1117&title_color=7fffd4&text_color=c9d1d9&border_color=1f3a36" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=USERNAME&background=0d1117&ring=3ddc97&fire=7fffd4&currStreakLabel=7fffd4&sideLabels=c9d1d9&currStreakNum=e6fff5&sideNums=e6fff5&dates=8b949e&stroke=1f3a36&border=1f3a36" alt="streak" />
+
+</div>
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  <i>"Even among the stars, I'll keep moving forward."</i>
-</p>
+## 🏆 Trophies
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:55D6C2,100:091820&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&margin-w=12&row=1&column=6" alt="trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Even the smallest light can guide the way through the dark."</i> ✦
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3ddc97,50:0f3d3a,100:0d1117&section=footer" width="100%" alt="footer" />
+
+</div>
