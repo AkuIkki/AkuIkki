@@ -1,9 +1,9 @@
 <div align="center">
 
-<img align="right" src="https://github.com/user-attachments/assets/ISI_LINK_KAMU" width="190" alt="peeking" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0d1117,100:0f3d3a&text=Rifqi&fontColor=7fffd4&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" alt="Rifqi" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=3DDC97&center=true&vCenter=true&width=520&height=30&lines=Aspiring+Backend+Developer;PHP+%C2%B7+MySQL+%C2%B7+REST+API;Small+light%2C+steady+glow+%E2%9C%A6" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=3DDC97&center=true&vCenter=true&width=420&height=30&lines=Aspiring+Backend+Developer;PHP+%C2%B7+MySQL+%C2%B7+REST+API;Small+light%2C+steady+glow+%E2%9C%A6" alt="typing" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=akuikki&label=views&color=0f3d3a&labelColor=0d1117&style=flat-square" alt="Profile Views" />
@@ -11,8 +11,7 @@
 </div>
 
 <br/>
-
-<img align="right" src="https://raw.githubusercontent.com/akuikki/akuikki/main/firefly.jpg" width="190" alt="peeking" />
+<img width="236" height="313" alt="Design Wars_ Man vs_ Machine theCHIVE" src="https://github.com/user-attachments/assets/1717b626-ee0d-4492-bda0-2d85b8bbc528" />
 
 ## ✦ About
 
